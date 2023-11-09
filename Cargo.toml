@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/wiseaidev/polars-ai"
 documentation = "https://docs.rs/polars-ai"
 readme = "README.md"
-keywords = ["polars", "polars ai", "rust", "dataframe"]
+keywords = ["polars", "polars-ai", "rust", "dataframe"]
 authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
 exclude = ["/examples"]
 
