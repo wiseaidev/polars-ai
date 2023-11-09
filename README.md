@@ -1,7 +1,7 @@
 # Polars AI 📊
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wiseaidev)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue.svg?logo=Jupyter&logoColor=orange)](https://jupyter.org/)
 [![Share On Reddit](https://img.shields.io/badge/share%20on-reddit-red?style=flat-square&logo=reddit)](https://reddit.com/submit?url=https://github.com/wiseaidev/polars-ai&amp;title=A%20CLI%20and%20a%20library%20for%20interacting%20with%20Polars%20DataFrames%20using%20natural%20language%20queries%20and%20AI.)
@@ -51,7 +51,7 @@ To use Polars AI, you'll need to follow these installation steps:
    $ cargo build --release
    ```
 
-1. Run the OpenAI API key:
+1. Set the OpenAI API key:
 
    ```sh
    $ export OPENAI_API_KEY=sk-
@@ -63,8 +63,6 @@ To use Polars AI, you'll need to follow these installation steps:
    $ ./target/release/polars-ai help
    ```
 
-Sure, here's the section split into two subsections titled "Install from source" and "Install using Cargo":
-
 ### Install using Cargo
 
 To use Polars AI, you can also install it using Cargo, the Rust package manager:
@@ -75,7 +73,7 @@ To use Polars AI, you can also install it using Cargo, the Rust package manager:
    $ cargo install polars-ai
    ```
 
-1. Run the OpenAI API key:
+1. Set the OpenAI API key:
 
    ```sh
    $ export OPENAI_API_KEY=sk-
