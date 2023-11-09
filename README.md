@@ -20,12 +20,12 @@ Polars AI allows you to:
 
 ## Table of Contents 📚
 
-- [Installation](#installation) 🚀
-- [Getting Started](#getting-started) 🏁
-- [Usage](#usage) 🧑‍💻
-- [Examples](#examples) 💡
-- [Contributing](#contributing) 🤝
-- [License](#license) 📜
+- [Installation](#installation-) 🚀
+- [Getting Started](#getting-started-) 🏁
+- [Usage](#usage-) 🧑‍💻
+- [Examples](#examples-) 💡
+- [Contributing](#contributing-) 🤝
+- [License](#license-) 📜
 
 ## Installation 🚀
 
