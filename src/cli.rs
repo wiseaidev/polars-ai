@@ -25,7 +25,7 @@ use clap::{Parser, Subcommand};
 /// ```
 #[command(name = "polars-ai")]
 #[command(author = "Mahmoud Harmouch <oss@wiseai.dev>")]
-#[command(version = "0.0.1")]
+#[command(version = "0.0.2")]
 #[command(propagate_version = true)]
 #[command(about = "\x1b[1;92m📊 Simple AI powered CLI for working with Polars DataFrames 📊\x1b[0m", long_about = None)]
 pub struct Cli {

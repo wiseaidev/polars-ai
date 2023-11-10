@@ -1,6 +1,6 @@
 [package]
 name = "polars-ai"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "A CLI and a library for interacting with Polars DataFrames using natural language queries and AI."
 license = "MIT"
